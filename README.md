@@ -19,6 +19,7 @@ We were able to get 81% accuracy in this part, it is able to follow the lanes.
 
 the image before filtering:
 ![alt text](https://github.com/zyxstudycs/Automatic-driving-robot/blob/master/image/rgb.png)
+
 the image after filtering:
 ![alt text](https://github.com/zyxstudycs/Automatic-driving-robot/blob/master/image/black_white.png)
 
