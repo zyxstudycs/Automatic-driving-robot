@@ -2,9 +2,9 @@
 Autonomous navigation for mobile robots is a popular application for deep learning, made ever more relevant by the development of the self driving car. Our project aims to teach robot run in a general case simulated traffic system, mainly by correcting itself when deviating off course and off lane, and to recognize traffic signs.
 
 # Videos
-1. video for following the lane:
-2. video for left turn with 'turn left sign':
-3. video for going straight without 'turn left sign':
+1. video for right turn with 'turn right sign':https://www.youtube.com/watch?v=kyAZh9_9KaE&t=116s
+2. video for going straight without 'turn right sign': https://www.youtube.com/watch?v=a-hFTEdj-lc
+3. video for following the lane: https://www.youtube.com/watch?v=ETx2LO9LrB4
 
 # Robot
 ![alt text](https://github.com/zyxstudycs/Automatic-driving-robot/blob/master/image/robot.png)
